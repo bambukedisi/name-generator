@@ -1,0 +1,11 @@
+﻿number	chinese	pinyin	turkish
+1	芳	Fang	östrojen
+2	秀英	XiuYing	cesur zarih
+3	娜	Na	zarif
+4	丽	Li	güzel
+5	静	Jing	sessiz
+6	敏	Min	çabuk
+7	洋	Yang	okyanus
+8	艳	Yan	çekici
+9	爱	Ai	aşk
+10	吵醒	ChaoXing	sabah güneşi
