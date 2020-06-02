@@ -1,0 +1,101 @@
+﻿NUMBER	CHINESE	PINYIN	TURKISH
+1.          	李         	Lǐ	erik
+2.          	王         	Wáng	kral
+3.          	张         	Zhāng	ok yayı
+4.          	刘         	Liú	imtiyaz
+5.          	陈         	Chén	ezel
+6.          	杨         	Yáng	kavak
+7.          	赵         	Zhào	zhao(bölge adı)
+8.          	黄         	Huáng	sarı
+9.          	周         	Zhōu	çevre
+10.         	吴          	Wú	sesli
+11.         	徐          	Xú	yavaş
+12.         	孙          	Sūn	torun
+13.         	胡          	Hú	sakal
+14.         	朱          	Zhū	kıpkırmızı
+15.         	高          	Gāo	uzun
+16.         	林          	Lín	orman
+17.         	何          	Hé	han(bölge adı)
+18.         	郭          	Guō	sur
+19.         	马          	Mǎ	at
+20.         	罗          	Luó	koleksiyoncu
+21.         	梁          	Liáng	kiriş
+22.         	宋          	Sòng	song(bölge adı)
+23.         	郑          	Zhèng	zheng(bölge adı)
+24.         	谢          	Xiè	müteşekkir
+25.         	韩          	Hán	han(bölge adı)
+26.         	唐          	Táng	tang hanedanlığı
+27.         	冯          	Féng	dörtnal
+28.         	于          	Yú	içirmek
+29.         	董          	Dǒng	direkt
+30.         	萧          	Xiāo	sessiz
+31.         	程          	Chéng	kural
+32.         	曹          	Cáo	cao (bölge adı)
+33.         	袁          	Yuán	kaftan
+34.         	邓          	Dèng	deng (bölge adı)
+35.         	许          	Xǔ	işin vermek
+36.         	傅          	Fù	öğretmen
+37.         	沈          	Shěn	batmak
+38.         	曾          	Zēng	aile ilişkisi
+39.         	彭          	Péng	peng soyu
+40.         	吕          	Lǚ	la notası
+41.         	苏          	Sū	varmak
+42.         	卢          	Lú	pamuk
+43.         	蒋          	Jiǎng	yabani pirinç
+44.         	蔡          	Cài	cai (bölge adı)
+45.         	贾          	Jiǎ	tacir
+46.         	丁          	Dīng	çivi
+47.         	魏          	Wèi	deri
+48.         	薛          	Xuē	pelin
+49.         	叶          	Yè	yaprak
+50.         	阎          	Yán	sıkı
+51.         	余          	Yú	fazla
+52.         	潘          	Pān	pan (nehir)
+53.         	杜          	Dù	önlem
+54.         	戴          	Dài	destek
+55.         	夏          	Xià	yaz
+56.         	钟          	Zhōng	çan
+57.         	汪          	Wāng	deniz
+58.         	田          	Tián	tarla
+59.         	任          	Rén	atamak
+60.         	姜          	Jiāng	kızıl
+61.         	范          	Fàn	örnek
+62.         	方          	Fāng	kare
+63.         	石          	Shí	taş
+64.         	姚          	Yáo	(klan adı)
+65.         	谭          	Tán	konuşmak
+66.         	盛          	Shèng	trend
+67.         	邹          	Zōu	shandong (ilçe adı)
+68.         	熊          	Xióng	ayı
+69.         	金          	Jīn	altın
+70.         	陆          	Lù	kara
+71.         	郝          	Hǎo	(soyad)
+72.         	孔          	Kǒng	delik
+73.         	白          	Bái	beyaz
+74.         	崔          	Cuī	yüce
+75.         	康          	Kāng	sağlıklı
+76.         	毛          	Máo	kıl
+77.         	邱          	Qiū	tepe
+78.         	秦          	Qín	qin (hanedan)
+79.         	江          	Jiāng	nehir
+80.         	史          	Shǐ	tarih
+81.         	顾          	Gù	katılımcı
+82.         	侯          	Hóu	zaman
+83.         	邵          	Shào	çömlekçi
+84.         	孟          	Mèng	seçkin
+85.         	龙          	Lóng	ejderha
+86.         	万          	Wàn	onbin
+87.         	段          	Duàn	bölüm
+88.         	章          	Zhāng	bölüm
+89.         	钱          	Qián	para
+90.         	汤          	Tāng	kaynar su
+91.         	尹          	Yǐn	yönetici
+92.         	黎          	Lí	çokluk
+93.         	易          	Yì	değişim
+94.         	常          	Cháng	yaygın
+95.         	武          	Wǔ	askeri
+96.         	乔          	Qiáo	uzun
+97.         	贺          	Hè	kutlu
+98.         	赖          	Lài	güven
+99.         	龚          	Gōng	armağan
+100.       	文          	Wén	kelime
