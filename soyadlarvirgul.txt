@@ -1,0 +1,101 @@
+﻿number,Chinese,Pinyin,Turkish
+1,李,Li,Erik         
+2,王,Wang,kral         
+3,张,Zhang,ok yayı        
+4,刘,Liu,imtiyaz       
+5,陈,Chen,ezel         
+6,杨,Yang,kavak        
+7,赵,Zhao,Zhao(il)        
+8,黄,Huang,sarı        
+9,周,Zhou,çevre        
+10,吴,Wu,sesli          
+11,徐,Xu,yavaş         
+12,孙,Sun,torun          
+13,胡,Hu,sakal          
+14,朱,Zhu,kıpkırmızı          
+15,高,Gao,uzun          
+16,林,Lin,orman          
+17,何,He,han bölgesi          
+18,郭,Guo,sur          
+19,马,Ma,at          
+20,罗,Luo,koleksiyoner         
+21,梁,Liang,kiriş          
+22,宋,Song,Song bölgesi          
+23,郑,Zheng,zheng bölgesi          
+24,谢,Xie,müteşekkir          
+25,韩,Han,han bölgesi          
+26,唐,Tang,tang hanedanlığı          
+27,冯,Feng,dörtnal          
+28,于,Yu,içirmek          
+29,董,Dong,direkt          
+30,萧,Xiao,sessiz         
+31,程,Cheng,kural          
+32,曹,Cao,cao bölgesi          
+33,袁,Yuan,kaftan          
+34,邓,Deng,deng bölgesi          
+35,许,Xu,izin vermek          
+36,傅,Fu,öğretmen          
+37,沈,Shen,batmak          
+38,曾,Zeng,aile ilişkileri          
+39,彭,Peng,peng soyu          
+40,吕,Lü,la notası          
+41,苏,Sü,varmak          
+42,卢,Lu,pamuk          
+43,蒋,Jiang,Yabani pirinç          
+44,蔡,Cai,cai bölgesi          
+45,贾,Jia,tacir          
+46,丁,Ding,çivi          
+47,魏,wei,deri          
+48,薛,Xue,pelin          
+49,叶,Ye,yaprak         
+50,阎,Yan,sıkı         
+51,余,Yu,fazla          
+52,潘,Pan,pan nehri          
+53,杜,Du,önlem          
+54,戴,Dai,destek          
+55,夏,Xia,yaz          
+56,钟,Zhong,çan         
+57,汪,Wang,deniz          
+58,田,Tian,tarla          
+59,任,Ren,atama          
+60,姜,Jiang,kızıl          
+61,范,Fan,örnek          
+62,方,Fang,kare          
+63,石,Shi,taş          
+64,姚,Yao,yao klanı          
+65,谭,Tan,konuşmak          
+66,盛,Sheng,trend          
+67,邹,Zou,shandong ilçesi          
+68,熊,Xiong,ayı          
+69,金,Jin,altın          
+70,陆,Lu,kara parçası          
+71,郝,Hao,eski bir soyad          
+72,孔,Kong,delik          
+73,白,Bai,beyaz          
+74,崔,Cui,yüce          
+75,康,Kang,sağlıklı          
+76,毛,Mao,tüy       
+77,邱,Qiu,tepe          
+78,秦,Qin,Qin hanedanlığı          
+79,江,Jiang,nehir          
+80,史,Shı,tarih          
+81,顾,Gu,katılımcı       
+82,侯,Hou,zaman          
+83,邵,Shao,çömlekçi          
+84,孟,Meng,seçkin          
+85,龙,Long,ejderha          
+86,万,Wan,onbin          
+87,段,Duan,bölüm          
+88,章,Zhang,bölüm          
+89,钱,Qian,para          
+90,汤,Tang,kaynar su          
+91,尹,Yin,yönetici          
+92,黎,Li,çokluk          
+93,易,Yi,değişim          
+94,常,Chang,yaygın          
+95,武,Wu,askeri          
+96,乔,Qiao,uzun          
+97,贺,He,kutlu          
+98,赖,Lai,güven          
+99,龚,Gong,armağan          
+100,文,wen,lehçe          
