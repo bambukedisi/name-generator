@@ -1,5 +1,5 @@
 ﻿NUMBER	CHINESE	 PINYIN	  TURKISH
-1		李	Lǐ	erik
+1		      李	      Lǐ	erik
 2         	王 	Wang	kral
 3         	张      Zhāng	ok yayı
 4             	刘  	Liú	imtiyaz
@@ -36,12 +36,12 @@
 35       	许      	Xǔ	izin vermek
 36       	傅      	Fù	öğretmen
 37       	沈      	Shěn	batmak
-38            	曾 	Zēng	aile ilişkisi
+38           曾 	Zēng	aile ilişkisi
 39       	彭     	Péng	peng soyu
 40       	吕      	Lǚ	la notası
 41       	苏      	Sū	varmak
 42       	卢      	Lú	pamuk
-43              蒋	Jiǎng	yabani pirinç
+43            蒋	Jiǎng	yabani pirinç
 44       	蔡      	Cài	cai (bölge adı)
 45       	贾      Jiǎ	tacir
 46       	丁      	Dīng	çivi
