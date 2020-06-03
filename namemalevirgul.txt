@@ -9,3 +9,15 @@
 8,松,Song,çam
 9,银,Ying,gümüş
 10,荣,Rong,onur
+11,芳,Fang,östrojen
+12,秀英,XiuYing,cesur zarih
+13,娜,Na,zarif
+14,丽,Li,güzel
+15,静,Jing,sessiz
+16,敏,Min,çabuk
+17,洋,Yang,okyanus
+18,艳,Yan,çekici
+19,爱,Ai,aşk
+20,吵醒,ChaoXing,sabah güneşi
+21,伟,Wei,büyük harika
+22,强,Qiang,güçlü
